@@ -1,0 +1,794 @@
+[
+    {
+        "log_id": 1,
+        "texto": "[2025-10-20 17:40:29] INFO: Error al procesar la solicitud del agente.",
+        "etiquetas": [
+            "Error",
+            "Request Processing",
+            "Agent"
+        ]
+    },
+    {
+        "log_id": 2,
+        "texto": "[2025-10-20 14:10:04] ERROR: Service restarted due to failure.",
+        "etiquetas": [
+            "Error",
+            "Service",
+            "Restart",
+            "Failure"
+        ]
+    },
+    {
+        "log_id": 3,
+        "texto": "[2025-10-20 17:32:13] WARNING: Session closed unexpectedly.",
+        "etiquetas": [
+            "Warning",
+            "Session",
+            "Unexpected Closure"
+        ]
+    },
+    {
+        "log_id": 4,
+        "texto": "[2025-10-20 11:48:28] WARNING: Task scheduler started successfully.",
+        "etiquetas": [
+            "WARNING",
+            "Task Scheduler",
+            "Startup"
+        ]
+    },
+    {
+        "log_id": 5,
+        "texto": "[2025-10-20 11:39:09] INFO: Token expired. Refreshing credentials...",
+        "etiquetas": [
+            "INFO",
+            "Authentication",
+            "Token Expired",
+            "Credential Refresh"
+        ]
+    },
+    {
+        "log_id": 6,
+        "texto": "[2025-10-20 10:09:42] DEBUG: Intentando reconectar con base de datos.",
+        "etiquetas": [
+            "DEBUG",
+            "Database",
+            "Reconnection"
+        ]
+    },
+    {
+        "log_id": 7,
+        "texto": "[2025-10-20 16:20:20] WARNING: Error al procesar la solicitud del agente.",
+        "etiquetas": [
+            "Warning",
+            "Error",
+            "Request Processing",
+            "Agent"
+        ]
+    },
+    {
+        "log_id": 8,
+        "texto": "[2025-10-20 15:54:11] INFO: Task scheduler started successfully.",
+        "etiquetas": [
+            "Informational",
+            "System",
+            "Scheduler",
+            "Startup",
+            "Success"
+        ]
+    },
+    {
+        "log_id": 9,
+        "texto": "[2025-10-20 18:49:22] DEBUG: Retrying request due to network instability.",
+        "etiquetas": [
+            "Debug",
+            "Retry",
+            "Network",
+            "Instability",
+            "Request"
+        ]
+    },
+    {
+        "log_id": 10,
+        "texto": "[2025-10-20 16:55:23] WARNING: Warning: high memory usage detected (85%).",
+        "etiquetas": [
+            "Warning",
+            "Memory",
+            "Resource Usage",
+            "System Health"
+        ]
+    },
+    {
+        "log_id": 11,
+        "texto": "[2025-10-20 13:43:55] DEBUG: Connection timeout while reaching database server.",
+        "etiquetas": [
+            "Debug",
+            "Connection",
+            "Timeout",
+            "Database"
+        ]
+    },
+    {
+        "log_id": 12,
+        "texto": "[2025-10-20 13:59:05] WARNING: Cache cleared successfully.",
+        "etiquetas": [
+            "Warning",
+            "Cache",
+            "Clear",
+            "Success"
+        ]
+    },
+    {
+        "log_id": 13,
+        "texto": "[2025-10-20 11:37:12] ERROR: Intentando reconectar con base de datos.",
+        "etiquetas": [
+            "Error",
+            "Database",
+            "Reconnection"
+        ]
+    },
+    {
+        "log_id": 14,
+        "texto": "[2025-10-20 15:19:16] DEBUG: Connection timeout while reaching database server.",
+        "etiquetas": [
+            "Debug",
+            "Connection",
+            "Timeout",
+            "Database"
+        ]
+    },
+    {
+        "log_id": 15,
+        "texto": "[2025-10-20 15:15:20] INFO: Intentando reconectar con base de datos.",
+        "etiquetas": [
+            "Info",
+            "Database",
+            "Reconnection"
+        ]
+    },
+    {
+        "log_id": 16,
+        "texto": "[2025-10-20 17:57:22] INFO: Response delay exceeded threshold (5000ms).",
+        "etiquetas": [
+            "Performance",
+            "Latency",
+            "Threshold Exceeded",
+            "Informational"
+        ]
+    },
+    {
+        "log_id": 17,
+        "texto": "[2025-10-20 15:07:16] INFO: Connection timeout while reaching database server.",
+        "etiquetas": [
+            "Error",
+            "Database",
+            "Connection",
+            "Timeout"
+        ]
+    },
+    {
+        "log_id": 18,
+        "texto": "[2025-10-20 12:13:02] DEBUG: Retrying request due to network instability.",
+        "etiquetas": [
+            "Debug",
+            "Retry",
+            "Network",
+            "Instability"
+        ]
+    },
+    {
+        "log_id": 19,
+        "texto": "[2025-10-20 10:11:35] WARNING: User 'admin' logged in successfully.",
+        "etiquetas": [
+            "Warning",
+            "Authentication",
+            "Login Success"
+        ]
+    },
+    {
+        "log_id": 20,
+        "texto": "[2025-10-20 11:08:57] ERROR: Session closed unexpectedly.",
+        "etiquetas": [
+            "Error",
+            "Session",
+            "UnexpectedClosure"
+        ]
+    },
+    {
+        "log_id": 21,
+        "texto": "[2025-10-20 20:02:04] INFO: User 'admin' logged in successfully.",
+        "etiquetas": [
+            "INFO",
+            "Login",
+            "Success",
+            "Authentication",
+            "User Activity"
+        ]
+    },
+    {
+        "log_id": 22,
+        "texto": "[2025-10-20 10:39:24] INFO: Cache cleared successfully.",
+        "etiquetas": [
+            "Info",
+            "Cache",
+            "Success",
+            "Clear"
+        ]
+    },
+    {
+        "log_id": 23,
+        "texto": "[2025-10-20 09:11:24] DEBUG: Retrying request due to network instability.",
+        "etiquetas": [
+            "DEBUG",
+            "Network",
+            "Retry",
+            "Request"
+        ]
+    },
+    {
+        "log_id": 24,
+        "texto": "[2025-10-20 14:45:41] DEBUG: Invalid parameter: expected 'int' but got 'str'.",
+        "etiquetas": [
+            "Debug",
+            "Parameter Error",
+            "Type Mismatch"
+        ]
+    },
+    {
+        "log_id": 25,
+        "texto": "[2025-10-20 12:42:20] SUCCESS: Cache cleared successfully.",
+        "etiquetas": [
+            "Success",
+            "Cache",
+            "Clear"
+        ]
+    },
+    {
+        "log_id": 26,
+        "texto": "[2025-10-20 14:21:52] WARNING: Token expired. Refreshing credentials...",
+        "etiquetas": [
+            "Warning",
+            "Authentication",
+            "Token Management",
+            "Security"
+        ]
+    },
+    {
+        "log_id": 27,
+        "texto": "[2025-10-20 15:45:37] SUCCESS: Invalid parameter: expected 'int' but got 'str'.",
+        "etiquetas": [
+            "Error",
+            "Validation",
+            "Parameter Error",
+            "Type Mismatch",
+            "Input Error"
+        ]
+    },
+    {
+        "log_id": 28,
+        "texto": "[2025-10-20 19:59:47] WARNING: Warning: high memory usage detected (85%).",
+        "etiquetas": [
+            "Warning",
+            "Memory",
+            "Resource Usage"
+        ]
+    },
+    {
+        "log_id": 29,
+        "texto": "[2025-10-20 10:26:57] SUCCESS: Unhandled exception occurred in worker thread.",
+        "etiquetas": [
+            "Error",
+            "Exception",
+            "Unhandled",
+            "Application",
+            "Thread"
+        ]
+    },
+    {
+        "log_id": 30,
+        "texto": "[2025-10-20 11:37:39] ERROR: Conexión restablecida correctamente.",
+        "etiquetas": [
+            "Error",
+            "Conexión",
+            "Restablecimiento"
+        ]
+    },
+    {
+        "log_id": 31,
+        "texto": "[2025-10-20 17:17:45] INFO: Token expired. Refreshing credentials...",
+        "etiquetas": [
+            "INFO",
+            "Authentication",
+            "Token",
+            "Credential Refresh"
+        ]
+    },
+    {
+        "log_id": 32,
+        "texto": "[2025-10-20 11:09:40] WARNING: Conexión restablecida correctamente.",
+        "etiquetas": [
+            "Warning",
+            "Connection",
+            "Restored",
+            "Success"
+        ]
+    },
+    {
+        "log_id": 33,
+        "texto": "[2025-10-20 16:51:15] DEBUG: API request completed with status 200.",
+        "etiquetas": [
+            "Debug",
+            "API",
+            "Success",
+            "HTTP"
+        ]
+    },
+    {
+        "log_id": 34,
+        "texto": "[2025-10-20 15:00:21] ERROR: File not found: /app/config/settings.yaml",
+        "etiquetas": [
+            "Error",
+            "FileNotFound",
+            "Configuration",
+            "Application"
+        ]
+    },
+    {
+        "log_id": 35,
+        "texto": "[2025-10-20 18:33:19] DEBUG: Intentando reconectar con base de datos.",
+        "etiquetas": [
+            "Debug",
+            "Database",
+            "Connection"
+        ]
+    },
+    {
+        "log_id": 36,
+        "texto": "[2025-10-20 19:57:40] DEBUG: Unhandled exception occurred in worker thread.",
+        "etiquetas": [
+            "Debug",
+            "Error",
+            "Exception",
+            "Thread"
+        ]
+    },
+    {
+        "log_id": 37,
+        "texto": "[2025-10-20 19:59:09] INFO: Usuario 'jlopez' inició sesión.",
+        "etiquetas": [
+            "INFO",
+            "Login",
+            "User Activity",
+            "Authentication"
+        ]
+    },
+    {
+        "log_id": 38,
+        "texto": "[2025-10-20 11:36:22] ERROR: Invalid parameter: expected 'int' but got 'str'.",
+        "etiquetas": [
+            "Error",
+            "Validation",
+            "Parameter",
+            "TypeError"
+        ]
+    },
+    {
+        "log_id": 39,
+        "texto": "[2025-10-20 19:30:37] INFO: API request completed with status 200.",
+        "etiquetas": [
+            "Info",
+            "API",
+            "Request",
+            "Success",
+            "HTTP 200"
+        ]
+    },
+    {
+        "log_id": 40,
+        "texto": "[2025-10-20 15:01:35] INFO: Token expired. Refreshing credentials...",
+        "etiquetas": [
+            "INFO",
+            "Authentication",
+            "Token Expired",
+            "Credentials Refresh"
+        ]
+    },
+    {
+        "log_id": 41,
+        "texto": "[2025-10-20 19:01:48] SUCCESS: Cache cleared successfully.",
+        "etiquetas": [
+            "Success",
+            "Cache",
+            "Clear",
+            "Info"
+        ]
+    },
+    {
+        "log_id": 42,
+        "texto": "[2025-10-20 17:35:02] INFO: Warning: high memory usage detected (85%).",
+        "etiquetas": [
+            "Warning",
+            "Memory",
+            "Resource Usage",
+            "System Health"
+        ]
+    },
+    {
+        "log_id": 43,
+        "texto": "[2025-10-20 13:21:06] INFO: Token expired. Refreshing credentials...",
+        "etiquetas": [
+            "Informational",
+            "Authentication",
+            "Token Expiration",
+            "Credential Refresh"
+        ]
+    },
+    {
+        "log_id": 44,
+        "texto": "[2025-10-20 14:42:25] WARNING: Agent 'pre_sales_bot' deployed successfully.",
+        "etiquetas": [
+            "WARNING",
+            "Agent",
+            "Deployment",
+            "Success"
+        ]
+    },
+    {
+        "log_id": 45,
+        "texto": "[2025-10-20 15:13:03] SUCCESS: Invalid parameter: expected 'int' but got 'str'.",
+        "etiquetas": [
+            "Error",
+            "Validation",
+            "TypeError",
+            "Parameter"
+        ]
+    },
+    {
+        "log_id": 46,
+        "texto": "[2025-10-20 11:31:21] WARNING: Task scheduler started successfully.",
+        "etiquetas": [
+            "WARNING",
+            "Task Scheduler",
+            "Startup",
+            "Success"
+        ]
+    },
+    {
+        "log_id": 47,
+        "texto": "[2025-10-20 18:19:00] ERROR: API request completed with status 200.",
+        "etiquetas": [
+            "Error",
+            "API",
+            "HTTP 200"
+        ]
+    },
+    {
+        "log_id": 48,
+        "texto": "[2025-10-20 17:29:41] ERROR: File not found: /app/config/settings.yaml",
+        "etiquetas": [
+            "Error",
+            "FileNotFound",
+            "Configuration"
+        ]
+    },
+    {
+        "log_id": 49,
+        "texto": "[2025-10-20 10:09:14] DEBUG: Response delay exceeded threshold (5000ms).",
+        "etiquetas": [
+            "Debug",
+            "Performance",
+            "Latency",
+            "Threshold"
+        ]
+    },
+    {
+        "log_id": 50,
+        "texto": "[2025-10-20 11:15:19] WARNING: Unhandled exception occurred in worker thread.",
+        "etiquetas": [
+            "Warning",
+            "Exception",
+            "Thread",
+            "Runtime"
+        ]
+    },
+    {
+        "log_id": 51,
+        "texto": "[2025-10-20 18:17:47] ERROR: User 'admin' logged in successfully.",
+        "etiquetas": [
+            "Error",
+            "Authentication",
+            "Login",
+            "Success",
+            "Security"
+        ]
+    },
+    {
+        "log_id": 52,
+        "texto": "[2025-10-20 17:04:25] INFO: Agent 'pre_sales_bot' deployed successfully.",
+        "etiquetas": [
+            "Informational",
+            "Deployment",
+            "Agent",
+            "Success"
+        ]
+    },
+    {
+        "log_id": 53,
+        "texto": "[2025-10-20 17:25:03] SUCCESS: Invalid parameter: expected 'int' but got 'str'.",
+        "etiquetas": [
+            "Validation",
+            "Parameter Error",
+            "Type Mismatch",
+            "Warning"
+        ]
+    },
+    {
+        "log_id": 54,
+        "texto": "[2025-10-20 12:26:13] SUCCESS: API request completed with status 200.",
+        "etiquetas": [
+            "Success",
+            "API",
+            "HTTP 200",
+            "Informational"
+        ]
+    },
+    {
+        "log_id": 55,
+        "texto": "[2025-10-20 15:12:46] ERROR: Agent 'pre_sales_bot' deployed successfully.",
+        "etiquetas": [
+            "Error",
+            "Deployment",
+            "Agent",
+            "Success"
+        ]
+    },
+    {
+        "log_id": 56,
+        "texto": "[2025-10-20 16:55:31] WARNING: API request completed with status 200.",
+        "etiquetas": [
+            "Warning",
+            "API",
+            "HTTP",
+            "Request",
+            "Success"
+        ]
+    },
+    {
+        "log_id": 57,
+        "texto": "[2025-10-20 09:37:53] WARNING: Unhandled exception occurred in worker thread.",
+        "etiquetas": [
+            "Warning",
+            "Exception",
+            "Unhandled",
+            "Thread",
+            "Application"
+        ]
+    },
+    {
+        "log_id": 58,
+        "texto": "[2025-10-20 12:26:28] WARNING: Intentando reconectar con base de datos.",
+        "etiquetas": [
+            "Warning",
+            "Database",
+            "Reconnection"
+        ]
+    },
+    {
+        "log_id": 59,
+        "texto": "[2025-10-20 14:24:49] INFO: Invalid parameter: expected 'int' but got 'str'.",
+        "etiquetas": [
+            "Info",
+            "Validation",
+            "TypeError",
+            "Parameter"
+        ]
+    },
+    {
+        "log_id": 60,
+        "texto": "[2025-10-20 11:16:01] DEBUG: Invalid parameter: expected 'int' but got 'str'.",
+        "etiquetas": [
+            "Debug",
+            "Invalid Parameter",
+            "Type Mismatch",
+            "Validation"
+        ]
+    },
+    {
+        "log_id": 61,
+        "texto": "[2025-10-20 14:58:52] SUCCESS: Usuario 'jlopez' inició sesión.",
+        "etiquetas": [
+            "Success",
+            "Login",
+            "User Activity",
+            "Audit"
+        ]
+    },
+    {
+        "log_id": 62,
+        "texto": "[2025-10-20 13:05:59] SUCCESS: Usuario 'jlopez' inició sesión.",
+        "etiquetas": [
+            "Success",
+            "Login",
+            "Authentication"
+        ]
+    },
+    {
+        "log_id": 63,
+        "texto": "[2025-10-20 13:02:52] INFO: Service restarted due to failure.",
+        "etiquetas": [
+            "INFO",
+            "Service",
+            "Restart",
+            "Failure",
+            "System Event"
+        ]
+    },
+    {
+        "log_id": 64,
+        "texto": "[2025-10-20 14:01:55] SUCCESS: Connection timeout while reaching database server.",
+        "etiquetas": [
+            "Error",
+            "Database",
+            "Timeout",
+            "Connectivity"
+        ]
+    },
+    {
+        "log_id": 65,
+        "texto": "[2025-10-20 19:11:08] INFO: Response delay exceeded threshold (5000ms).",
+        "etiquetas": [
+            "Performance",
+            "Latency",
+            "Threshold Exceeded",
+            "Info"
+        ]
+    },
+    {
+        "log_id": 66,
+        "texto": "[2025-10-20 10:31:34] SUCCESS: Error al procesar la solicitud del agente.",
+        "etiquetas": [
+            "Error",
+            "Request"
+        ]
+    },
+    {
+        "log_id": 67,
+        "texto": "[2025-10-20 14:51:02] SUCCESS: Intentando reconectar con base de datos.",
+        "etiquetas": [
+            "Success",
+            "Database",
+            "Reconnection",
+            "Info"
+        ]
+    },
+    {
+        "log_id": 68,
+        "texto": "[2025-10-20 16:58:59] WARNING: API request completed with status 200.",
+        "etiquetas": [
+            "Warning",
+            "API",
+            "Request",
+            "HTTP",
+            "Success"
+        ]
+    },
+    {
+        "log_id": 69,
+        "texto": "[2025-10-20 11:24:45] ERROR: Error al procesar la solicitud del agente.",
+        "etiquetas": [
+            "Error",
+            "Processing",
+            "Agent Request"
+        ]
+    },
+    {
+        "log_id": 70,
+        "texto": "[2025-10-20 15:33:14] WARNING: Connection timeout while reaching database server.",
+        "etiquetas": [
+            "WARNING",
+            "Connection Timeout",
+            "Database"
+        ]
+    },
+    {
+        "log_id": 71,
+        "texto": "[2025-10-20 19:49:58] ERROR: User 'admin' logged in successfully.",
+        "etiquetas": [
+            "Error",
+            "Authentication",
+            "Login",
+            "Success",
+            "Security"
+        ]
+    },
+    {
+        "log_id": 72,
+        "texto": "[2025-10-20 10:24:44] DEBUG: Archivo de configuración actualizado.",
+        "etiquetas": [
+            "Debug",
+            "Configuración",
+            "Actualización"
+        ]
+    },
+    {
+        "log_id": 73,
+        "texto": "[2025-10-20 14:51:36] WARNING: Conexión restablecida correctamente.",
+        "etiquetas": [
+            "Warning",
+            "Connection",
+            "Network",
+            "Recovery",
+            "Successful"
+        ]
+    },
+    {
+        "log_id": 74,
+        "texto": "[2025-10-20 16:46:57] WARNING: Error al procesar la solicitud del agente.",
+        "etiquetas": [
+            "Warning",
+            "Error",
+            "Processing",
+            "Agent",
+            "Request"
+        ]
+    },
+    {
+        "log_id": 75,
+        "texto": "[2025-10-20 16:44:04] WARNING: Error al procesar la solicitud del agente.",
+        "etiquetas": [
+            "Warning",
+            "Error",
+            "Request Processing",
+            "Agent"
+        ]
+    },
+    {
+        "log_id": 76,
+        "texto": "[2025-10-20 09:26:08] INFO: Unhandled exception occurred in worker thread.",
+        "etiquetas": [
+            "INFO",
+            "Exception",
+            "Unhandled",
+            "Worker Thread",
+            "Application Error"
+        ]
+    },
+    {
+        "log_id": 77,
+        "texto": "[2025-10-20 09:21:30] SUCCESS: Agent 'pre_sales_bot' deployed successfully.",
+        "etiquetas": [
+            "Success",
+            "Deployment",
+            "Agent",
+            "Bot"
+        ]
+    },
+    {
+        "log_id": 78,
+        "texto": "[2025-10-20 14:25:46] WARNING: Response delay exceeded threshold (5000ms).",
+        "etiquetas": [
+            "Warning",
+            "Performance",
+            "Latency",
+            "Threshold Exceeded"
+        ]
+    },
+    {
+        "log_id": 79,
+        "texto": "[2025-10-20 14:36:15] DEBUG: Archivo de configuración actualizado.",
+        "etiquetas": [
+            "Debug",
+            "Configuración",
+            "Actualización"
+        ]
+    },
+    {
+        "log_id": 80,
+        "texto": "[2025-10-20 09:49:42] SUCCESS: Retrying request due to network instability.",
+        "etiquetas": [
+            "Retry",
+            "Network",
+            "Instability",
+            "Informational"
+        ]
+    }
+]

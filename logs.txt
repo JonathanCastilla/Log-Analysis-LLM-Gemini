@@ -1,0 +1,80 @@
+[2025-10-20 17:40:29] INFO: Error al procesar la solicitud del agente.
+[2025-10-20 14:10:04] ERROR: Service restarted due to failure.
+[2025-10-20 17:32:13] WARNING: Session closed unexpectedly.
+[2025-10-20 11:48:28] WARNING: Task scheduler started successfully.
+[2025-10-20 11:39:09] INFO: Token expired. Refreshing credentials...
+[2025-10-20 10:09:42] DEBUG: Intentando reconectar con base de datos.
+[2025-10-20 16:20:20] WARNING: Error al procesar la solicitud del agente.
+[2025-10-20 15:54:11] INFO: Task scheduler started successfully.
+[2025-10-20 18:49:22] DEBUG: Retrying request due to network instability.
+[2025-10-20 16:55:23] WARNING: Warning: high memory usage detected (85%).
+[2025-10-20 13:43:55] DEBUG: Connection timeout while reaching database server.
+[2025-10-20 13:59:05] WARNING: Cache cleared successfully.
+[2025-10-20 11:37:12] ERROR: Intentando reconectar con base de datos.
+[2025-10-20 15:19:16] DEBUG: Connection timeout while reaching database server.
+[2025-10-20 15:15:20] INFO: Intentando reconectar con base de datos.
+[2025-10-20 17:57:22] INFO: Response delay exceeded threshold (5000ms).
+[2025-10-20 15:07:16] INFO: Connection timeout while reaching database server.
+[2025-10-20 12:13:02] DEBUG: Retrying request due to network instability.
+[2025-10-20 10:11:35] WARNING: User 'admin' logged in successfully.
+[2025-10-20 11:08:57] ERROR: Session closed unexpectedly.
+[2025-10-20 20:02:04] INFO: User 'admin' logged in successfully.
+[2025-10-20 10:39:24] INFO: Cache cleared successfully.
+[2025-10-20 09:11:24] DEBUG: Retrying request due to network instability.
+[2025-10-20 14:45:41] DEBUG: Invalid parameter: expected 'int' but got 'str'.
+[2025-10-20 12:42:20] SUCCESS: Cache cleared successfully.
+[2025-10-20 14:21:52] WARNING: Token expired. Refreshing credentials...
+[2025-10-20 15:45:37] SUCCESS: Invalid parameter: expected 'int' but got 'str'.
+[2025-10-20 19:59:47] WARNING: Warning: high memory usage detected (85%).
+[2025-10-20 10:26:57] SUCCESS: Unhandled exception occurred in worker thread.
+[2025-10-20 11:37:39] ERROR: Conexión restablecida correctamente.
+[2025-10-20 17:17:45] INFO: Token expired. Refreshing credentials...
+[2025-10-20 11:09:40] WARNING: Conexión restablecida correctamente.
+[2025-10-20 16:51:15] DEBUG: API request completed with status 200.
+[2025-10-20 15:00:21] ERROR: File not found: /app/config/settings.yaml
+[2025-10-20 18:33:19] DEBUG: Intentando reconectar con base de datos.
+[2025-10-20 19:57:40] DEBUG: Unhandled exception occurred in worker thread.
+[2025-10-20 19:59:09] INFO: Usuario 'jlopez' inició sesión.
+[2025-10-20 11:36:22] ERROR: Invalid parameter: expected 'int' but got 'str'.
+[2025-10-20 19:30:37] INFO: API request completed with status 200.
+[2025-10-20 15:01:35] INFO: Token expired. Refreshing credentials...
+[2025-10-20 19:01:48] SUCCESS: Cache cleared successfully.
+[2025-10-20 17:35:02] INFO: Warning: high memory usage detected (85%).
+[2025-10-20 13:21:06] INFO: Token expired. Refreshing credentials...
+[2025-10-20 14:42:25] WARNING: Agent 'pre_sales_bot' deployed successfully.
+[2025-10-20 15:13:03] SUCCESS: Invalid parameter: expected 'int' but got 'str'.
+[2025-10-20 11:31:21] WARNING: Task scheduler started successfully.
+[2025-10-20 18:19:00] ERROR: API request completed with status 200.
+[2025-10-20 17:29:41] ERROR: File not found: /app/config/settings.yaml
+[2025-10-20 10:09:14] DEBUG: Response delay exceeded threshold (5000ms).
+[2025-10-20 11:15:19] WARNING: Unhandled exception occurred in worker thread.
+[2025-10-20 18:17:47] ERROR: User 'admin' logged in successfully.
+[2025-10-20 17:04:25] INFO: Agent 'pre_sales_bot' deployed successfully.
+[2025-10-20 17:25:03] SUCCESS: Invalid parameter: expected 'int' but got 'str'.
+[2025-10-20 12:26:13] SUCCESS: API request completed with status 200.
+[2025-10-20 15:12:46] ERROR: Agent 'pre_sales_bot' deployed successfully.
+[2025-10-20 16:55:31] WARNING: API request completed with status 200.
+[2025-10-20 09:37:53] WARNING: Unhandled exception occurred in worker thread.
+[2025-10-20 12:26:28] WARNING: Intentando reconectar con base de datos.
+[2025-10-20 14:24:49] INFO: Invalid parameter: expected 'int' but got 'str'.
+[2025-10-20 11:16:01] DEBUG: Invalid parameter: expected 'int' but got 'str'.
+[2025-10-20 14:58:52] SUCCESS: Usuario 'jlopez' inició sesión.
+[2025-10-20 13:05:59] SUCCESS: Usuario 'jlopez' inició sesión.
+[2025-10-20 13:02:52] INFO: Service restarted due to failure.
+[2025-10-20 14:01:55] SUCCESS: Connection timeout while reaching database server.
+[2025-10-20 19:11:08] INFO: Response delay exceeded threshold (5000ms).
+[2025-10-20 10:31:34] SUCCESS: Error al procesar la solicitud del agente.
+[2025-10-20 14:51:02] SUCCESS: Intentando reconectar con base de datos.
+[2025-10-20 16:58:59] WARNING: API request completed with status 200.
+[2025-10-20 11:24:45] ERROR: Error al procesar la solicitud del agente.
+[2025-10-20 15:33:14] WARNING: Connection timeout while reaching database server.
+[2025-10-20 19:49:58] ERROR: User 'admin' logged in successfully.
+[2025-10-20 10:24:44] DEBUG: Archivo de configuración actualizado.
+[2025-10-20 14:51:36] WARNING: Conexión restablecida correctamente.
+[2025-10-20 16:46:57] WARNING: Error al procesar la solicitud del agente.
+[2025-10-20 16:44:04] WARNING: Error al procesar la solicitud del agente.
+[2025-10-20 09:26:08] INFO: Unhandled exception occurred in worker thread.
+[2025-10-20 09:21:30] SUCCESS: Agent 'pre_sales_bot' deployed successfully.
+[2025-10-20 14:25:46] WARNING: Response delay exceeded threshold (5000ms).
+[2025-10-20 14:36:15] DEBUG: Archivo de configuración actualizado.
+[2025-10-20 09:49:42] SUCCESS: Retrying request due to network instability.

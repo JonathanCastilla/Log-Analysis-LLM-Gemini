@@ -1,0 +1,6 @@
+# Dependencia principal para interactuar con la API de Gemini (v1.0+)
+google-genai>=1.0.0
+
+# Nota: Las librerías 'google.colab', 'json', 'os', 'time' y 'random' 
+# son parte del entorno estándar de Colab o de Python, 
+# por lo que no se requieren instalar explícitamente aquí.
